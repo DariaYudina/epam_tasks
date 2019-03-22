@@ -1,7 +1,0 @@
-C:\Users\kolobok413\source\repos\Search\Search\bin\Debug\Search.exe.config
-C:\Users\kolobok413\source\repos\Search\Search\bin\Debug\Search.exe
-C:\Users\kolobok413\source\repos\Search\Search\bin\Debug\Search.pdb
-C:\Users\kolobok413\source\repos\Search\Search\obj\Debug\Search.csprojAssemblyReference.cache
-C:\Users\kolobok413\source\repos\Search\Search\obj\Debug\Search.csproj.CoreCompileInputs.cache
-C:\Users\kolobok413\source\repos\Search\Search\obj\Debug\Search.exe
-C:\Users\kolobok413\source\repos\Search\Search\obj\Debug\Search.pdb

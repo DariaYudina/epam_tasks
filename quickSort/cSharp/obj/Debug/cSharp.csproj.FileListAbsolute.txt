@@ -1,7 +1,0 @@
-C:\Users\kolobok413\Desktop\quickSort\cSharp\bin\Debug\cSharp.exe.config
-C:\Users\kolobok413\Desktop\quickSort\cSharp\bin\Debug\cSharp.exe
-C:\Users\kolobok413\Desktop\quickSort\cSharp\bin\Debug\cSharp.pdb
-C:\Users\kolobok413\Desktop\quickSort\cSharp\obj\Debug\cSharp.csprojAssemblyReference.cache
-C:\Users\kolobok413\Desktop\quickSort\cSharp\obj\Debug\cSharp.csproj.CoreCompileInputs.cache
-C:\Users\kolobok413\Desktop\quickSort\cSharp\obj\Debug\cSharp.exe
-C:\Users\kolobok413\Desktop\quickSort\cSharp\obj\Debug\cSharp.pdb

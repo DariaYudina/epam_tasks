@@ -1,7 +1,0 @@
-C:\Users\kolobok413\source\repos\CheckParenthesis\CheckParenthesis\bin\Debug\CheckParenthesis.exe.config
-C:\Users\kolobok413\source\repos\CheckParenthesis\CheckParenthesis\bin\Debug\CheckParenthesis.exe
-C:\Users\kolobok413\source\repos\CheckParenthesis\CheckParenthesis\bin\Debug\CheckParenthesis.pdb
-C:\Users\kolobok413\source\repos\CheckParenthesis\CheckParenthesis\obj\Debug\CheckParenthesis.csprojAssemblyReference.cache
-C:\Users\kolobok413\source\repos\CheckParenthesis\CheckParenthesis\obj\Debug\CheckParenthesis.csproj.CoreCompileInputs.cache
-C:\Users\kolobok413\source\repos\CheckParenthesis\CheckParenthesis\obj\Debug\CheckParenthesis.exe
-C:\Users\kolobok413\source\repos\CheckParenthesis\CheckParenthesis\obj\Debug\CheckParenthesis.pdb
