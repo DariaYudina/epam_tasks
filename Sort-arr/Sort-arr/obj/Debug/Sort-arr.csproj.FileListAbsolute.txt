@@ -1,7 +1,0 @@
-C:\Users\kolobok413\source\repos\Sort-arr\Sort-arr\bin\Debug\Sort-arr.exe.config
-C:\Users\kolobok413\source\repos\Sort-arr\Sort-arr\bin\Debug\Sort-arr.exe
-C:\Users\kolobok413\source\repos\Sort-arr\Sort-arr\bin\Debug\Sort-arr.pdb
-C:\Users\kolobok413\source\repos\Sort-arr\Sort-arr\obj\Debug\Sort-arr.csprojAssemblyReference.cache
-C:\Users\kolobok413\source\repos\Sort-arr\Sort-arr\obj\Debug\Sort-arr.csproj.CoreCompileInputs.cache
-C:\Users\kolobok413\source\repos\Sort-arr\Sort-arr\obj\Debug\Sort-arr.exe
-C:\Users\kolobok413\source\repos\Sort-arr\Sort-arr\obj\Debug\Sort-arr.pdb
