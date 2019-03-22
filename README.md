@@ -1,1 +1,1 @@
-# epam_tasks
+# tasks
